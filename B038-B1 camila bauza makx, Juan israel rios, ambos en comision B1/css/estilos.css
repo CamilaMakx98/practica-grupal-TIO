@@ -305,6 +305,12 @@ tbody td {
     background-color: #010B17;    
 }
 
+#contenedor-formAct div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 #formActividad div{
     display: flex;
     justify-content: center;
